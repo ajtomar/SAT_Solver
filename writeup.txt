@@ -1,0 +1,4 @@
+1
+None
+
+MiniSat used: http://minisat.se/downloads/MiniSat_v1.14_linux (after renaming the downloaded file as "minisat")
